@@ -67,7 +67,7 @@ def checkWin(line1, line2, line3):
 				print("O Wins!")
 				exit()
 
-	#check diagnol
+	#check diagonal
 	#X wins
 	if(line1[0] == "X"):
 		if(line2[1] == "X"):
