@@ -84,5 +84,7 @@ if __name__ == "__main__":
 	print("   | |  | |/ __| |/ _` |/ __| |/ _ \\ / _ \\")
 	print("   | |  | | (__| | (_| | (__| | (_) |  __/")
 	print("   |_|  |_|\\___|_|\\__,_|\\___|_|\\___/ \\___|")
+	print("Place letters with the following commands:")
+	print("TL TM TR\nML MM MR\nBL BM BR\n")
 	print("X's turn")
 	playGame(current, turnCounter, line1, line2, line3)
